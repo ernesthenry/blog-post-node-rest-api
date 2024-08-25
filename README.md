@@ -1,9 +1,4 @@
 # Build a Faster, More Structured Express API with Node.js and TypeScript
-This is the repository for the LinkedIn Learning course Build a Faster, More Structured Express API with Node.js and TypeScript. The full course is available from [LinkedIn Learning][URL-lil-course].
-
-# Building a Todo App with Node.js, TypeScript, and Express
-
-## Introduction
 
 This project is a RESTful API service for a blog using Node.js, TypeScript, and Express. This combination offers a powerful and efficient setup, ensuring your application is scalable, maintainable, and type-safe. TypeScript adds static types to JavaScript, allowing you to catch errors early in development, improving overall code quality. Express, as a minimalist and flexible web application framework for Node.js, provides a strong foundation for building APIs and web applications with ease and efficiency.
 
